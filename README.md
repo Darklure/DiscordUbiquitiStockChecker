@@ -9,6 +9,7 @@
 - [ ] Need to add logic to use roles for certain commands
 
 # Config File
+```json
 {
   "Token": "DISCORD TOKEN HERE",
   "Prefix": "!",
@@ -16,3 +17,4 @@
   "Username": "UBIQUITI USER NAME/EMAIL",
   "Password": "UBIQUITI PASSWORD
 }
+```
