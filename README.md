@@ -1,4 +1,4 @@
-# UIStockChecker
+# Ubiquiti Stock/Inventory Checker Bot
  A discord bot for Ubiquiti Stock/Inventory
 
 # TODO Items
