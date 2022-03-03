@@ -15,6 +15,6 @@
   "Prefix": "!",
   "Logging": "logs/log.db",
   "Username": "UBIQUITI USER NAME/EMAIL",
-  "Password": "UBIQUITI PASSWORD
+  "Password": "UBIQUITI PASSWORD"
 }
 ```
